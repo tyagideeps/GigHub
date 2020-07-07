@@ -43,7 +43,7 @@ span.field-validation-error{
 }
 
 body{
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .form-group {
@@ -63,8 +63,8 @@ form-control:focus{
 }
 
 btn{
-    font-size: 17px;
-    padding: 7px 20px;
+    /*font-size: 17px;
+    padding: 7px 20px;*/
     border-radius: 9px;
 }
 
@@ -84,7 +84,6 @@ btn{
     color: white;
     text-align: center;
     width: 60px;
-    -ms-border-radius: 8px;
     border-radius:8px;
 }
 
